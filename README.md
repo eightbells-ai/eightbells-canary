@@ -9,3 +9,5 @@ here. Verification must be trivially green in a fresh, network-less sandbox, so
 the repo carries at most one dependency-free check (see
 `.github/workflows/ci.yml`). Please keep it that way: do not add dependencies,
 integration tests, or anything that needs network access or secrets.
+
+<!-- eightbells canary: automated delivery check -->
